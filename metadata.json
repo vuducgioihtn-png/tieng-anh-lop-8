@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh 8 Global Success - Lặp Lại Ngắt Quãng & Trò Chơi Ôn Tập",
+  "description": "Ứng dụng học Tiếng Anh lớp 8 (Global Success) theo phương pháp lặp lại ngắt quãng Spaced Repetition, flashcard thông minh, trắc nghiệm tương tác và minigame sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
